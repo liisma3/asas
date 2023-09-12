@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482856935751",
+    "firebase_url": "https://lami1a-1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lami1a-1",
+    "storage_bucket": "lami1a-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482856935751:android:852e18c8aec9457e4c2c62",
+        "android_client_info": {
+          "package_name": "com.liismaiil.liisma1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482856935751-530o2pamu4q57hrc0lsh15hnp50p9djc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qiSXqBKE6rbtzbY790bfVdSz5B01vA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482856935751-530o2pamu4q57hrc0lsh15hnp50p9djc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482856935751-9nlh169pebo4bmcme3mmmfafuku0oi58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liisma1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
